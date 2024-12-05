@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Vladurka
+- 👋 Hi, I’m Vlad
 - 👀 I’m interested in programming and sport(boxing, mma)
 - 🌱 I’m currently learning C#(.Net) & Angular & React
 - 📫 How to reach me https://t.me/Prosto_Vlad_Os
-- 😄 Pronouns: Vlad
