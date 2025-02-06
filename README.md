@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vladurka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vladurka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladurka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=Vladurka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api?username=vladurka&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en))
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vladurka&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
